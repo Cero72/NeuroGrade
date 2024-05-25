@@ -1,0 +1,7 @@
+
+Distributed computing is a setup where many computers or resources are linked together to work on a big task or deal with a heavy workload. In this setup, the big task is broken into smaller parts, and these parts are spread out across multiple computers or nodes in the system. These nodes work together at the same time, each handling its own part of the task. The final result comes from putting together the outputs from all the nodes.
+
+The main goals of distributed computing are to:
+
+Boost computing power: By using the combined processing abilities of many computers, distributed computing systems can handle tricky problems or lots of data that would be hard or impossible for just one computer to handle well.
+Use parallelism: Breaking a big task into smaller pieces and doing them all at once on different nodes can cut down on how long it takes to finish, making things run faster and better overall.

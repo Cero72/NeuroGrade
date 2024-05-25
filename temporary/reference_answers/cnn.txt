@@ -1,0 +1,6 @@
+Convolutional Neural Networks (CNNs) are a type of deep learning architecture well-suited for processing grid-like data, such as images. The key components of a CNN are:
+
+Convolutional layers: Apply learnable filters to the input data, capturing local patterns and features.
+Pooling layers: Downsample the spatial dimensions of feature maps, reducing complexity and providing translation invariance.
+Fully connected layers: Combine the learned features to make predictions or classifications.
+The convolutional and pooling layers extract features from the input, while the fully connected layers perform the final task. CNNs are effective for image processing due to their ability to capture spatial and local correlations.

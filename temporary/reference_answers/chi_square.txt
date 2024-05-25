@@ -1,0 +1,13 @@
+The chi-square test is a statistical test used to determine whether there is a significant association between two categorical variables. It is a non-parametric test, meaning it makes no assumptions about the distribution of the data. The test is based on the chi-square statistic, which measures the discrepancy between the observed and expected frequencies of the categories.
+
+Here's a detailed overview of how the chi-square test works:
+
+Formulating Hypotheses: Like any statistical test, the chi-square test begins with the formulation of null and alternative hypotheses. The null hypothesis states that there is no significant association between the two categorical variables, while the alternative hypothesis suggests that there is a significant association.
+
+Data Collection: Data for the chi-square test should be collected in the form of a contingency table or cross-tabulation. This table presents the frequency counts for each combination of categories of the two variables.
+
+Expected Frequencies: Before conducting the test, expected frequencies need to be calculated. This is done under the assumption that the null hypothesis is true. The expected frequency for each cell in the contingency table is calculated by multiplying the row total by the column total and then dividing by the total number of observations.
+
+Critical Value or P-value: Once the chi-square statistic is calculated, it is compared to a critical value from the chi-square distribution with the appropriate degrees of freedom. Alternatively, the p-value associated with the chi-square statistic can be determined. If the chi-square statistic exceeds the critical value or if the p-value is less than the chosen significance level (commonly 0.05), then the null hypothesis is rejected in favor of the alternative hypothesis, indicating a significant association between the categorical variables.
+
+Interpretation: If the null hypothesis is rejected, it means that there is evidence to suggest that the two categorical variables are associated. The strength and direction of this association can be further explored through measures like Cramer's V or Phi coefficient.
