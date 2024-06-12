@@ -20,6 +20,10 @@ The proposed system aims to automate the traditionally labor-intensive task of g
 - Consistent and scalable evaluation of handwritten responses
 - Potential to transform education assessment practices
 
+## Video Demo
+[![Watch video](https://img.youtube.com/vi/qfkVyAUwUtM/0.jpg)](https://youtu.be/qfkVyAUwUtM)
+
+
 # In order to use this tool, you need to follow steps mentioned below : 
 1. Generate and add your Gemini API key in the grading.py file
 2. run the command "streamlit run apps.py" in the terminal
