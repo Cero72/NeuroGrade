@@ -20,6 +20,22 @@ The proposed system aims to automate the traditionally labor-intensive task of g
 - Consistent and scalable evaluation of handwritten responses
 - Potential to transform education assessment practices
 
+# In order to use this tool, you need to follow steps mentioned below : 
+1. Generate and add your Gemini API key in the grading.py file
+2. run the command "streamlit run apps.py" in the terminal
+3. Follow the link 
+
+# How to use this tool ?
+1. Enter the question to answer needed to graded, save the question
+2. Enter the actual answer to the question, save it
+3. Drag or upload the handwritten answer image and click the extract and segment button
+4. Once the answer is converted to digital text, click the grade button and get the grade
+
+# Some necessary things to have :
+CUDA installed and configured if using the GPU
+libraries like streamlit, NumPy, Cv2, PyTorch, PIL need to be installed
+The [Surya](https://github.com/VikParuchuri/surya/tree/master) OCR and [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr) are necessary 
+
 # Thanks
 
 This work would not have been possible without amazing open source AI work:
