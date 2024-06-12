@@ -1,4 +1,4 @@
-Automated Grading System for Handwritten Answers
+**Automated Grading System for Handwritten Answers**
 
 This repository contains the implementation of an automated system for grading handwritten subjective answers, leveraging advanced computer vision, natural language processing, and large language model techniques.
 
